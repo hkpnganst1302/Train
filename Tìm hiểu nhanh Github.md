@@ -57,7 +57,7 @@ Bạn có thể thực hiện và lưu thay đổi đối với các tệp trong
 - Bước 4: Trong hộp thoại **Commit changes**, viết thông báo cam kết mô tả sự thay đổi.
 - Bước 5: Chọn **Commit changes**.
 
-![Hình ảnh commit changes](./images/commit-changes.png)
+![Hình ảnh commit changes](./images/commit-changes.PNG)
 
 Những thay đổi này sẽ chỉ được thực hiện đối với tệp README trên nhánh `readme-edits` của bạn, vì vậy bây giờ nhánh này chứa nội dung khác với nhánh chính.
 
@@ -74,7 +74,7 @@ Bằng cách sử dụng `@mention` của GitHub trong thông báo pull request,
 - Bước 3: Trong hộp **Example Comparisons** chọn nhánh đã thực hiện `readme-edits`, để so sánh với nhánh chính `main` (the original).
 - Bước 4: Xem lại những thay đổi của bạn trong các điểm khác biệt trên trang Compare, đảm bảo rằng chúng là những gì bạn muốn gửi.
 
-    ![Hình ảnh commit changes](./images/compare.png)
+    ![Hình ảnh compare](./images/compare.PNG)
 
 - Bước 5: Chọn **Create pull request**.
 - Bước 6: Đặt tiêu đề cho pull request và viết mô tả ngắn gọn về các thay đổi. Bạn có thể sử dụng biểu tượng cảm xúc, kéo và thả hình ảnh, gif.
