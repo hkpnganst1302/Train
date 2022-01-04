@@ -56,7 +56,7 @@ Bạn có thể thực hiện và lưu thay đổi đối với các tệp trong
 - Bước 4: Trong hộp thoại **Commit changes**, viết thông báo cam kết mô tả sự thay đổi.
 - Bước 5: Chọn **Commit changes**.
 
-    ![Hình ảnh commit changes](./images/commit-changes.png)
+![Hình ảnh commit changes](./images/commit-changes.png)
 
 Những thay đổi này sẽ chỉ được thực hiện đối với tệp README trên nhánh readme-edits của bạn, vì vậy bây giờ nhánh này chứa nội dung khác với nhánh chính.
 
