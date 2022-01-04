@@ -37,6 +37,7 @@ Các bước tạo chi nhánh:
 ![Hình ảnh main](./images/main.png)
 
 - Bước 3: Nhập tên chi nhánh "readme-edits" vào hộp văn bản.
+
 ![Hình ảnh tạo readme-edits](./images/readme-edits.png)
 
 - Bước 4: Chọn vào **Create branch:readme-edits from main**.
