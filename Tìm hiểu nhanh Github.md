@@ -34,11 +34,12 @@ Các bước tạo chi nhánh:
 
 - Bước 1: Chọn vào tab **Code** của kho lưu trữ hello-world.
 - Bước 2: Chọn vào menu thả xuống đầu danh sách tệp có nội dung chính.
-![Hình ảnh main](./images/main.png)
+
+    ![Hình ảnh main](./images/main.png)
 
 - Bước 3: Nhập tên chi nhánh "readme-edits" vào hộp văn bản.
 
-![Hình ảnh tạo readme-edits](./images/readme-edits.png)
+    ![Hình ảnh tạo readme-edits](./images/readme-edits.png)
 
 - Bước 4: Chọn vào **Create branch:readme-edits from main**.
 
