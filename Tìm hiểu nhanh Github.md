@@ -2,7 +2,7 @@
 ## **1. Hello word**
 Github là một nền tảng lưu trữ mã để kiểm soát phiên bản và sự cộng tác. Nó cho phép bạn và những người khác có thể làm chung các dự án từ khắp mọi nơi.
 ###      **- Tạo kho lưu trữ (Repository)**
-Một kho lưu trữ thường được sử dụng để tổ chức lưu trữ một dự án. Kho lưu trữ có thể chứa thư mục, tệp, hình ảnh, video, tập dữ liệu và bảng tính (Bất cứ thứ gì mà dự án của bạn cần). Thông thường trong kho lưu trữ sẽ bao gồm tệp README, tệp chứa thông tin về dự án. Github giúp bạn dễ thực hiện tạo thêm một kho lưu trữ cùng lúc với khi tạo kho lưu trữ mới. Đồng thời nó cũng cung cấp các tùy chọn phổ biến khác như tệp giấy phép.
+Một kho lưu trữ thường được sử dụng để tổ chức lưu trữ một dự án. Kho lưu trữ có thể chứa thư mục, tệp, hình ảnh, video, tập dữ liệu và bảng tính (Bất cứ thứ gì mà dự án của bạn cần). Thông thường trong kho lưu trữ sẽ bao gồm tệp [^1 README], tệp chứa thông tin về dự án. Github giúp bạn dễ thực hiện tạo thêm một kho lưu trữ cùng lúc với khi tạo kho lưu trữ mới. Đồng thời nó cũng cung cấp các tùy chọn phổ biến khác như tệp giấy phép.
 
 Kho lưu trữ hello-word có thể là nơi lưu trữ các ý tưởng, tài nguyên hoặc có thể chia sẻ và thảo luận mọi thứ với những người khác.
 
@@ -45,10 +45,17 @@ Các bước tạo chi nhánh:
 
 Sau khi thực hiện xong, hiện tại bạn sẽ có 2 nhánh: nhánh chính “main” và nhánh “readme-edits”. Hiện tại, trong chúng sẽ giống hết nhau. Tiếp theo bạn cần thay đổi vào chi nhánh mới.
 
-###      **- Thực hiện và cam kết thay đổi**
+###      **- Thực hiện và cam kết thay đổi (Making and commit changes)**
 Khi đã thực hiện việc tạo một nhánh mới, Github sẽ đưa bạn đến trang mã cho chi nhánh mới đó, đây là một bản sao của main.
 
 Bạn có thể thực hiện và lưu thay đổi đối với các tệp trong kho lưu trữ của bạn. Trên Github, các thay đổi đã lưu được gọi là cam kết (commits). Mỗi cam kết sẽ có một thông báo cam kết liên quan và mô tả giải thích cụ thể lý do tại sao có sự thay đổi. Thông báo cam kết ghi lại lịch sử các thay đổi của bạn để những người đóng góp khác có thể hiểu bạn đã làm gì và tại sao.
 
 - Bước 1: Chọn tệp README.md.
-- Bước 2: Chọn biểu tượng **Edit this file** để chỉnh sửa
+- Bước 2: Chọn biểu tượng **Edit this file** để chỉnh sửa.
+- Bước 3: Trong phần editor hãy viết một chút về bản thân.
+- Bước 4: Trong hộp thoại **Commit changes**, viết thông báo cam kết mô tả sự thay đổi.
+- Bước 5: Chọn **Commit changes**.
+![Hình ảnh commit changes](./images/commit-changes.png)
+Những thay đổi này sẽ chỉ được thực hiện đối với tệp README trên nhánh readme-edits của bạn, vì vậy bây giờ nhánh này chứa nội dung khác với nhánh chính.
+
+### **- Tạo một yêu cầu kéo**
