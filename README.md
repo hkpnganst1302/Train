@@ -1,2 +1,2 @@
 # Train
-Học hỏi 
+Học hỏi vè git
