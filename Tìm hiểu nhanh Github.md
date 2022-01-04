@@ -1,4 +1,4 @@
-# **TÌM HIỂU NHANH VỀ Github**
+# **TÌM HIỂU NHANH VỀ GitHub**
 ## **1. Hello word**
 Github là một nền tảng lưu trữ mã để kiểm soát phiên bản và sự cộng tác. Nó cho phép bạn và những người khác có thể làm chung các dự án từ khắp mọi nơi.
 ###      **- Tạo kho lưu trữ (Repository)**
@@ -10,8 +10,41 @@ Các bước tạo kho lưu trữ (Repository):
 - Bước 1: Tại góc trên bên phải của trang bất kỳ trong Github, sử dụng menu thả xuống và chọn **New repository**
 
     ![Hình ảnh tạo kho lưu trữ](./images/new-repository.png)
-- Bước 2: Tại hộp Repository name, nhập hello-word.
-- Bước 3: Tại hộp Description, viết đoạn mô tả ngắn.
-- Bước 4: Chọn Add a README file.
-- Bước 5: Chọn Create repository.
+- Bước 2: Tại hộp **Repository name**, nhập hello-word.
+- Bước 3: Tại hộp **Description**, viết đoạn mô tả ngắn.
+- Bước 4: Chọn **Add** a README file.
+- Bước 5: Chọn **Create repository**.
     ![Hình ảnh tạo kho lưu trữ](./images/new-repository-1.png)
+###      **- Tạo nhánh (Branch)**
+Việc phân nhánh cho phép bạn có các phiên bản khác nhau của kho lưu trữ trong cùng một lúc. Theo mặc định, kho lưu trữ sẽ có một nhánh chính “main” được coi là nhánh cuối cùng. Bạn có thể sử dụng các nhánh để thử nghiệm và thực hiện chỉnh sửa trước khi chuyển thành nhánh chính.
+
+Khi tạo một nhánh ngoài nhánh chính, bạn đang tạo 1 bản sao hoặc ảnh chụp nhanh của nhánh chính tại thời điểm đó. Nếu có ai đó đã thay đổi đối với nhánh chính trong khi bạn đang làm việc với nhánh của mình thì bạn có thể lấy các bản cập nhất đó.
+
+Sơ đồ này cho thấy:
+*	Nhánh chính.
+
+*	Nhánh mới là nhánh tính năng (feature).
+
+*	Tiến trình nhánh tính năng thực hiện trước khi hợp nhất với nhánh chính.
+
+    ![Hình ảnh branch](./images/branch.png)
+Tại Github, các nhà phát triển, nhà văn và các nhà thiết kế có thể sử dụng các nhánh chính để lưu giữ các các bản sửa lỗi và các tính năng riêng lẻ với nhánh chính. Khi thay đổi đã sẵn sàng, họ thực hiện hợp nhất thành nhánh chính. 
+
+Các bước tạo chi nhánh:
+
+- Bước 1: Chọn vào tab **Code** của kho lưu trữ hello-world.
+- Bước 2: Chọn vào menu thả xuống đầu danh sách tệp có nội dung chính.
+![Hình ảnh main](./images/main.png)
+- Bước 3: Nhập tên chi nhánh "readme-edits" vào hộp văn bản.
+![Hình ảnh tạo readme-edits](./images/readme-edits.png)
+- Bước 4: Chọn vào **Create branch:readme-edits from main**.
+
+Sau khi thực hiện xong, hiện tại bạn sẽ có 2 nhánh: nhánh chính “main” và nhánh “readme-edits”. Hiện tại, trong chúng sẽ giống hết nhau. Tiếp theo bạn cần thay đổi vào chi nhánh mới.
+
+###      **- Thực hiện và cam kết thay đổi**
+Khi đã thực hiện việc tạo một nhánh mới, Github sẽ đưa bạn đến trang mã cho chi nhánh mới đó, đây là một bản sao của main.
+
+Bạn có thể thực hiện và lưu thay đổi đối với các tệp trong kho lưu trữ của bạn. Trên Github, các thay đổi đã lưu được gọi là cam kết (commits). Mỗi cam kết sẽ có một thông báo cam kết liên quan và mô tả giải thích cụ thể lý do tại sao có sự thay đổi. Thông báo cam kết ghi lại lịch sử các thay đổi của bạn để những người đóng góp khác có thể hiểu bạn đã làm gì và tại sao.
+
+- Bước 1: Chọn tệp README.md.
+- Bước 2: Chọn biểu tượng **Edit this file** để chỉnh sửa
