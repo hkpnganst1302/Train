@@ -1159,4 +1159,4 @@ Một khóa học Git trực tuyến tương tác từ Pluralsight có bảy c�
 
 Mở rộng phạm vi tiếp cận GitHub của bạn thông qua tích hợp hoặc bằng cách cài đặt GitHub Desktop và trình soạn thảo văn bản Atom mạnh mẽ.
 
-Tìm hiểu cách khởi chạy và phát triển dự án nguồn mở của bạn với [Hướng dẫn nguồn mở ()].
+Tìm hiểu cách khởi chạy và phát triển dự án nguồn mở của bạn với [Hướng dẫn nguồn mở (Open Source Guides)](https://opensource.guide/).
