@@ -1,5 +1,8 @@
 # **TÌM HIỂU NHANH VỀ GitHub**
-## **Hello word**
+### [Hello world](#Hello-world)
+### [Thiết lập GitHub (Set up Git)](#Thiết-lập-GitHub-(Set-up-Git))
+
+## **Hello world**
 Github là một nền tảng lưu trữ mã để kiểm soát phiên bản và sự cộng tác. Nó cho phép bạn và những người khác có thể làm chung các dự án từ khắp mọi nơi.
 ###      **Tạo kho lưu trữ (Creating a repository)**
 Một kho lưu trữ thường được sử dụng để tổ chức lưu trữ một dự án. Kho lưu trữ có thể chứa thư mục, tệp, hình ảnh, video, tập dữ liệu và bảng tính (Bất cứ thứ gì mà dự án của bạn cần). Thông thường trong kho lưu trữ sẽ bao gồm tệp `README`, tệp chứa thông tin về dự án. Github giúp bạn dễ thực hiện tạo thêm một kho lưu trữ cùng lúc với khi tạo kho lưu trữ mới. Đồng thời nó cũng cung cấp các tùy chọn phổ biến khác như tệp giấy phép.
@@ -562,7 +565,7 @@ Thành viên tổ chức quản lý cài đặt thanh toán cho một tổ chứ
 ### **Kế hoạch thanh toán (billing plan)**
 Gói thanh toán cho người dùng và tổ chức bao gồm các tính năng được thiết lập cho từng loại gói.
 
-### **(blame)**
+### **Blame**
 Tính năng "blame" trong Git mô tả lần sửa đổi cuối cùng đối với từng dòng của tệp, thường hiển thị bản sửa đổi, tác giả và thời gian. Điều này rất hữu ích, chẳng hạn, trong việc theo dõi thời điểm một tính năng được thêm vào hoặc cam kết nào dẫn đến một lỗi cụ thể.
 
 ### **Chặn (block)**
@@ -659,7 +662,7 @@ Bộ lập lịch công việc dựa trên thời gian trong hệ điều hành 
 ### **cURL**
 Được sử dụng trong các dòng lệnh hoặc tập lệnh để truyền dữ liệu
 
-### ** Bảng điều khiển (dashboard)**
+### **Bảng điều khiển (dashboard)**
 Trang tổng quan cá nhân của bạn là trung tâm hoạt động chính của bạn trên GitHub. Từ trang tổng quan cá nhân của mình, bạn có thể theo dõi các vấn đề và lấy các yêu cầu mà bạn đang theo dõi hoặc đang làm việc, điều hướng đến các kho lưu trữ hàng đầu và các trang nhóm của bạn, đồng thời tìm hiểu về hoạt động gần đây trong các kho lưu trữ mà bạn đang xem hoặc tham gia. Bạn cũng có thể khám phá các kho lưu trữ mới, được đề xuất dựa trên những người dùng bạn đang theo dõi và các kho lưu trữ bạn đã gắn dấu sao. Để chỉ xem hoạt động cho một tổ chức cụ thể, hãy truy cập trang tổng quan của tổ chức bạn.
 
 ### **Chi nhánh mặc định (default branch)**
