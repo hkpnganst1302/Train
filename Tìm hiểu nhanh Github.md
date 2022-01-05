@@ -1,7 +1,4 @@
 # **TÌM HIỂU NHANH VỀ GitHub**
-### [Hello world](#Hello-world)
-### [Thiết lập GitHub (Set up Git)](#Thiết-lập-GitHub-(Set-up-Git))
-
 ## **Hello world**
 Github là một nền tảng lưu trữ mã để kiểm soát phiên bản và sự cộng tác. Nó cho phép bạn và những người khác có thể làm chung các dự án từ khắp mọi nơi.
 ###      **Tạo kho lưu trữ (Creating a repository)**
