@@ -139,6 +139,6 @@ Khi tạo kho lưu trữ công khai của bạn từ một nhánh dự án của
 
 Để biết thêm thông tin về nguồn mở, cụ thể là cách tạo và phát triển một dự án nguồn mở, chúng tôi đã tạo [Hướng dẫn nguồn mở (Open Source Guides)](https://opensource.guide/) sẽ giúp bạn nuôi dưỡng một cộng đồng nguồn mở lành mạnh bằng cách đề xuất các phương pháp hay nhất để tạo và duy trì kho lưu trữ cho dự án nguồn mở của bạn. Bạn cũng có thể tham gia khóa học [GitHub Learning Lab](https://lab.github.com/) miễn phí về duy trì cộng đồng nguồn mở.
 ### **- Điều kiện tiên quyết (Prerequisites)**
-Nếu bạn chưa có, trước tiên bạn nên [thiết lập Git](#2-.thiết-lập-GitHub). Đừng quên thiết lập xác thực cho GitHub.com từ Git.
+Nếu bạn chưa có, trước tiên bạn nên [thiết lập Git](#2.Thiết-lập-GitHub). Đừng quên thiết lập xác thực cho GitHub.com từ Git.
 
 [Bấm về đầu](#TÌM-HIỂU-NHANH-VỀ-GitHub)
