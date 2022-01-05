@@ -191,21 +191,22 @@ Khi bạn fork một dự án để đề xuất các thay đổi đối với k
         * Để đi đến thư mục chính của bạn, nhập `cd` mà không có văn bản nào khác.
         * Để liệt kê các tệp và thư mục trong thư mục hiện tại của bạn, nhập `ls`.
         * Để đi đến một trong các thư mục được liệt kê của bạn, nhập `cd your_listed_directory`.
-        * Để truy cập một thư mục, `cd ..
+        * Để truy cập một thư mục, `cd ..`
 - 6. Gõ `git remote -v` và nhấn **Enter**. Bạn sẽ thấy kho lưu trữ từ xa được định cấu hình hiện tại cho fork của mình.
-    $ git remote -v
-    > origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
-    > origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+
+            $ git remote -v
+            > origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+            > origin  https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
 - 7. Nhập `git remote add upstream`, sau đó dán URL bạn đã sao chép ở bước 2 và nhấn **Enter**. Nó sẽ trông giống thế này:
 
             $ git remote add upstream https://github.com/octocat/Spoon-Knife.git
 - 8. Để xác minh kho lưu trữ ngược dòng mới mà bạn đã chỉ định cho fork của mình, nhập `git remote -v`. Bạn sẽ thấy URL cho bản fork của mình là `origin` và URL cho kho lưu trữ gốc ở dạng `upstream`.
 
-    $ git remote -v
-    > origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
-    > origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
-    > upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
-    > upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+            $ git remote -v
+            > origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+            > origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+            > upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
+            > upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
 
 Bây giờ, bạn có thể giữ cho fork của mình được đồng bộ hóa với kho lưu trữ ngược dòng bằng một vài lệnh Git. Để biết thêm thông tin, hãy xem "[Đồng bộ hóa một fork (Syscinga fork)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)".
 
