@@ -142,3 +142,5 @@ Khi tạo kho lưu trữ công khai của bạn từ một nhánh dự án của
 Nếu bạn chưa có, trước tiên bạn nên [thiết lập Git](#Thiết-lập-GitHub). Đừng quên thiết lập xác thực cho GitHub.com từ Git.
 
 [Bấm về đầu](#TÌM-HIỂU-NHANH-VỀ-GitHub)
+
+[Kho lưu trữ](#-Tạo-kho-lưu-trữ)
