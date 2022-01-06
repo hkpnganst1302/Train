@@ -1,0 +1,2 @@
+# **Git cheatsheet**
+Học tất cả các lệnh Git có sẵn cùng một lúc có thể là một nhiệm vụ khó khăn. Bạn có thể sử dụng "[Git Cheat Sheets](https://training.github.com/)" để tham khảo nhanh các lệnh được sử dụng thường xuyên. Bảng "Using Git" có sẵn bằng một số ngôn ngữ.
