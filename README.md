@@ -1,3 +1,5 @@
+# **TÌM HIỂU NHANH**
+
 1. [Hello world](https://github.com/hkpnganst1302/Train/blob/main/Hello%20world.md)
 
 2. [Thiết lập Git (Set up Git)](https://github.com/hkpnganst1302/Train/blob/main/Set%20up%20Git.md)
