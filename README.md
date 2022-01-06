@@ -22,3 +22,4 @@
 
 11. [Tài liệu học Git và GitHub (Learning resources)](https://github.com/hkpnganst1302/Train/blob/main/Learning%20resources.md)
 
+12. Thêm mới
