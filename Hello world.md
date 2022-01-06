@@ -63,14 +63,14 @@ Bạn có thể thực hiện và lưu thay đổi đối với các tệp trong
 
 Những thay đổi này sẽ chỉ được thực hiện đối với tệp README trên nhánh `readme-edits` của bạn, vì vậy bây giờ nhánh này chứa nội dung khác với nhánh chính.
 
-## **Tạo 1 pull request (Opening a pull request)**
-Có những thay đổi trong 1 nhánh ngoài nhánh main, bạn có thể mở 1 **pull request**.
+## **Tạo 1 yêu cầu kéo (Opening a pull request)**
+Có những thay đổi trong 1 nhánh ngoài nhánh main, bạn có thể mở 1 **yêu cầu kéo**.
 
-**Pull request** là trọng tâm của sự hợp tác trên GitHub. Khi bạn mở 1 Pull request, bạn đề xuất các thay đổi của mình và yêu cầu ai đó xem xét và thu hút đóng góp của bạn, hợp nhất chúng vào nhánh của họ. Các pull request hiển thị sự khác biệt hoặc khác biệt về nội dung từ cả hai nhánh. Các thay đổi, cộng và trừ được hiển thị bằng các màu khác nhau.
+**Yêu cầu kéo (Pull request)** là trọng tâm của sự hợp tác trên GitHub. Khi bạn mở 1 yêu cầu kéo, bạn đề xuất các thay đổi của mình và yêu cầu ai đó xem xét và thu hút đóng góp của bạn, hợp nhất chúng vào nhánh của họ. Các yêu cầu kéo hiển thị sự khác biệt hoặc khác biệt về nội dung từ cả hai nhánh. Các thay đổi, cộng và trừ được hiển thị bằng các màu khác nhau.
 
-Ngay sau khi bạn thực hiện một cam kết, bạn có thể mở một pull request và bắt đầu thảo luận, ngay cả trước khi mã hoàn tất.
+Ngay sau khi bạn thực hiện một cam kết, bạn có thể mở một yêu cầu kéo và bắt đầu thảo luận, ngay cả trước khi mã hoàn tất.
 
-Bằng cách sử dụng `@mention` của GitHub trong thông báo pull request, bạn có thể yêu cầu phản hồi từ những người hoặc nhóm cụ thể, cho dù họ ở dưới sảnh hay cách xa bạn 10 múi giờ.
+Bằng cách sử dụng `@mention` của GitHub trong thông báo yêu cầu kéo, bạn có thể yêu cầu phản hồi từ những người hoặc nhóm cụ thể, cho dù họ ở dưới sảnh hay cách xa bạn 10 múi giờ.
 - Bước 1: Chọn **Pull requests** của kho lưu trữ `hello-world`.
 - Bước 2: Chọn **New pull request**.
 - Bước 3: Trong hộp **Example Comparisons** chọn nhánh đã thực hiện `readme-edits`, để so sánh với nhánh chính `main` (the original).
@@ -83,7 +83,7 @@ Bằng cách sử dụng `@mention` của GitHub trong thông báo pull request,
 - Bước 7: Chọn **Create pull request**.
 
 Các cộng tác viên của bạn hiện có thể xem xét các chỉnh sửa của bạn và đưa ra đề xuất.
-## **Hợp nhất pull request của bạn (Merging your pull request)**
+## **Hợp nhất yêu cầu kéo của bạn (Merging your pull request)**
 Trong bước cuối cùng này, bạn sẽ hợp nhất nhánh readme-edits của mình vào nhánh chính.
 - Bước 1: Chọn **Merge pull requets** để hợp nhất thành nhánh chính `main`.
 - Bước 2: Chọn **Confirm merge**.

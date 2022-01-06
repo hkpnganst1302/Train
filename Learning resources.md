@@ -1,4 +1,4 @@
-# **Tài nguyên học tập Git và GitHub**
+# **Tài liệu học tập Git và GitHub**
 ## Có rất nhiều tài nguyên Git và GitHub hữu ích trên web. Đây là danh sách ngắn các mục yêu thích của chúng tôi!
 ## **Sử dụng Git**
 Làm quen với Git bằng cách truy cập [trang web chính thức của dự án Git (official Git project site)](https://git-scm.com/) và [ProGit book](http://git-scm.com/book/en/v2). Bạn có thể xem lại [danh sách lệnh Git (Git command list)](https://git-scm.com/docs) hoặc tham chiếu tra cứu lệnh Git trong khi sử dụng trình mô phỏng [Thử Git (Try Git)]().

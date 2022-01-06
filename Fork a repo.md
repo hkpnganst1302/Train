@@ -7,7 +7,7 @@ Thông thường nhất, fork được sử dụng để đề xuất các thay 
 *Ví dụ* : bạn có thể sử dụng fork để đề xuất các thay đổi liên quan đến việc sửa lỗi. Thay vì ghi lại sự cố cho một lỗi bạn đã tìm thấy, bạn có thể:
 - Fork kho lưu trữ.
 - Thực hiện sửa lỗi.
-- Gửi 1 pull request tới chủ dự án.
+- Gửi 1 yêu cầu kéo tới chủ dự án.
 
 ## **Sử dụng dự án của người khác để khởi đầu cho ý tưởng của mình (Use someone else's project as a starting point for your own idea.)**
 Phần mềm nguồn mở dựa trên ý tưởng rằng bằng cách chia sẻ mã, chúng ta có thể tạo ra phần mềm tốt hơn, đáng tin cậy hơn. Để biết thêm thông tin, hãy xem "[Giới thiệu về sáng kiến ​​nguồn mở (About the Open Source Initiative)](https://opensource.org/about) " trên sáng kiến ​​nguồn mở (Open Source Initiative).

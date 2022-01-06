@@ -1,6 +1,6 @@
-## **Tạo một kho dữ liệu (Create a repo)**
-### Để đưa dự án của bạn lên GitHub, bạn cần tạo một kho lưu trữ để dự án đó tồn tại.
-### **Tạo kho dữ liệu (Create a repository)**
+# **Tạo một kho dữ liệu (Create a repo)**
+## Để đưa dự án của bạn lên GitHub, bạn cần tạo một kho lưu trữ để dự án đó tồn tại.
+## **Tạo kho dữ liệu (Create a repository)**
 Bạn có thể lưu trữ nhiều dự án trong kho GitHub, bao gồm cả các dự án mã nguồn mở. Với các dự án mã nguồn mở, bạn có thể chia sẻ mã để tạo ra phần mềm tốt hơn, đáng tin cậy hơn. Bạn có thể sử dụng kho để cộng tác với những người khác và theo dõi công việc của mình. Để biết thêm thông tin, hãy xem "[Giới thiệu về kho (About repositories)](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)".
 
 >Lưu ý: Bạn có thể tạo kho lưu trữ công khai cho một dự án nguồn mở. Khi tạo kho lưu trữ công cộng của bạn, hãy đảm bảo bao gồm [tệp giấy phép (license file)](https://choosealicense.com/) xác định cách bạn muốn chia sẻ dự án của mình với người khác. Để biết thêm thông tin về nguồn mở, cụ thể là cách tạo và phát triển một dự án nguồn mở, chúng tôi đã tạo Hướng dẫn nguồn mở sẽ giúp bạn nuôi dưỡng một cộng đồng nguồn mở lành mạnh bằng cách đề xuất các phương pháp hay nhất để tạo và duy trì kho lưu trữ cho dự án nguồn mở của bạn. Bạn cũng có thể tham gia khóa học [GitHub Learning Lab](https://lab.github.com/) miễn phí về duy trì cộng đồng nguồn mở.
@@ -28,7 +28,7 @@ Bạn có thể lưu trữ nhiều dự án trong kho GitHub, bao gồm cả cá
 
     ![](./images/create-repo.PNG)
 
-### **Cam kết thay đổi đầu tiên của bạn (Commit your first change)**
+## **Cam kết thay đổi đầu tiên của bạn (Commit your first change)**
 Một cam kết giống như một ảnh chụp nhanh của tất cả các tệp trong dự án của bạn tại một thời điểm cụ thể.
 
 Khi bạn tạo kho lưu trữ mới của mình, bạn đã khởi tạo nó bằng tệp README. Tệp README là một nơi tuyệt vời để mô tả dự án của bạn chi tiết hơn hoặc thêm một số tài liệu như cách cài đặt hoặc sử dụng dự án của bạn. Nội dung của tệp README của bạn được tự động hiển thị trên trang đầu của kho lưu trữ của bạn.

@@ -109,7 +109,7 @@ Còn được gọi là SHA. Một băm tổng kiểm tra 40 ký tự xác đị
 Văn bản mô tả ngắn gọn đi kèm với cam kết và truyền đạt sự thay đổi mà cam kết đang giới thiệu.
 
 ## **So sánh nhánh (compare branch)**
-Nhánh bạn sử dụng để tạo một yêu cầu kéo. Nhánh này được so sánh với nhánh cơ sở mà bạn chọn cho yêu cầu kéo và các thay đổi được xác định. Khi yêu cầu kéo được hợp nhất, nhánh cơ sở được cập nhật với những thay đổi từ nhánh so sánh. Còn được gọi là "nhánh đầu" của pull request.
+Nhánh bạn sử dụng để tạo một yêu cầu kéo. Nhánh này được so sánh với nhánh cơ sở mà bạn chọn cho yêu cầu kéo và các thay đổi được xác định. Khi yêu cầu kéo được hợp nhất, nhánh cơ sở được cập nhật với những thay đổi từ nhánh so sánh. Còn được gọi là "nhánh đầu" của yêu cầu kéo.
 
 ## **Hội nhập liên tục (continuous integration)**
 Còn được gọi là CI. Một quy trình chạy các bản dựng và kiểm tra tự động sau khi một người thực hiện thay đổi đối với kho lưu trữ đã định cấu hình trên GitHub. CI là một phương pháp hay nhất phổ biến trong phát triển phần mềm giúp phát hiện lỗi.
